@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tel2Tel</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_Main">Telegram chat restorer</string>
+    <string name="select_zip">Select zip</string>
+    <string name="import_text">Import</string>
+    <string name="sendToTel">Send to telegram</string>
+    <string name="auto_send_to_telegram">Auto send to telegram</string>
+</resources>
